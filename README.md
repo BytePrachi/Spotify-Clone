@@ -8,3 +8,5 @@ Welcome to the Spotify Web Player clone project! This project aims to recreate t
 
 ## Screenshots
 Included some screenshots or GIFs in the project to give users a visual preview. You can add them to a dedicated "screenshots" folder in your repository.
+
+## I have uploaded a video for reference :) 
